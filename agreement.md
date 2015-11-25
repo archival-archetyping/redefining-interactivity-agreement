@@ -1,3 +1,6 @@
+#Agreement for 2015 YCAM Sports Hackathon (Japanese). This agreement is under development (not published officially yet).
+
+
 # 《イベント名》参加同意書
 
 《主催者名（複数の場合は列挙）》御中

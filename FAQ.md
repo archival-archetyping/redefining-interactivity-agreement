@@ -1,3 +1,6 @@
+#FAQ for Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under development (not published officially yet).
+
+
 # ハッカソン／メイカソン参加同意書および終了後の確認書に関するFAQ
 
 **本FAQは、「ハッカソン／メイカソン参加同意書および終了時の確認書」にしたがって運営されるイベントに関するものであり、異なるルールにより運営されるイベントに関するものではありません。また、そのような異なるルールにより運営されるイベントを否定する趣旨でもありません。**
