@@ -25,9 +25,9 @@ Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under de
 
 それぞれのイベントで使用する場合には、それぞれのイベントに合わせて改変し、その結果を同じライセンスの元で公開してください。また、二次利用の際には可能なかぎりGitHub上でforkし、派生関係がわかるようにしてください。
 
-作成：[山口情報芸術センター[YCAM] InterLab](http://interlab.ycam.jp)  
+作成: [YCAM InterLab](http://interlab.ycam.jp)  
 
-監修：弁護士 水野祐（[シティライツ法律事務所](http://citylights-lawoffice.tumblr.com)）
+監修: 弁護士 水野祐（[シティライツ法律事務所](http://citylights-lawoffice.tumblr.com)）
 
   
   
