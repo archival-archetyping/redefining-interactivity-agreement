@@ -1,5 +1,6 @@
 # 2015 YCAM Sports Hackathon の参加者のための同意書およびFAQ (作成中)  
 Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under development (not published officially yet).
+----
 
 [山口情報芸術センター[YCAM]]()では、2015年より[YCAM Sports Research Project](http://www.ycam.jp/projects/ycam-sports-research-project/)を進めています。
 
