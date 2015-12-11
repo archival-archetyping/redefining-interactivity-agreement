@@ -6,7 +6,7 @@ Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under de
 
 ----
 
-「[YCAM Sports Hackathon の参加者のための同意書]()」
+「[YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/Consent_Form_for_Sports_Hackathon/blob/master/Agreement_for_2015_YCAM_Sports_Hackathon.md)」
 
 
 [山口情報芸術センター[YCAM]]()では、2015年より[YCAM Sports Research Project](http://www.ycam.jp/projects/ycam-sports-research-project/)を進めています。  
