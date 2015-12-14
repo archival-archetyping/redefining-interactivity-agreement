@@ -22,7 +22,7 @@
 
 「[IAMAS ハッカソン／メイカソン参加同意書](https://github.com/IAMAS/makeathon_agreement)」をベースに、YCAMのリーガルデザインのノウハウ*を取り入れつつ制作しました。
 
-*これまでYCAMではオープン化を取り入れたリーガルデザインを実施してきました。  
+*これまでYCAMではオープン化を取り入れたリーガルデザインを実践してきました。  
 e.g. 「[GRP Contract Form](http://interlab.ycam.jp/projects/grp-contract-form)」、「[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)」、「[Think Thingsで制作したあそびの公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)」  
 
 
@@ -39,7 +39,7 @@ e.g. 「[GRP Contract Form](http://interlab.ycam.jp/projects/grp-contract-form)�
 YCAMでは広義のファシリテーションをその活動の重要な要素として捉えています。この同意書は、ファシリテーションの初期段階における、クリエイションを促進するツールとして扱います。共創感、“みんなでやろうぜ”感にもつなげていきます。
 
 #####成果のオープン化を経験する
-共創を促進する具体的な手法のひとつに成果のオープン化をあげることができます。これをハッカソンを通じて経験します。
+共創の範囲をよりひろげる具体的な手法のひとつに成果のオープン化をあげることができます。ハッカソンを通じてこれを実践・経験します。
 
 
 ###特徴
