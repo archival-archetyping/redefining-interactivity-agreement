@@ -2,7 +2,8 @@
 
 ----
 
-Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under development (not published officially yet).
+"Consent Form for 2015 YCAM Sports Hackathon" (Japanese).   
+(being prepared)
 
 ----
 
@@ -13,11 +14,53 @@ Agreement for 2015 YCAM Sports Hackathon (Japanese). This repository is under de
 
 山口情報芸術センター[YCAM]では、2015年より[YCAM Sports Research Project](http://www.ycam.jp/projects/ycam-sports-research-project/)を進めており、その一環として[2015 YCAM Sports Hackathon](http://www.ycam.jp/events/2015/sports-hackathon/) が実施されます。
 
-「YCAM Sports Hackathon の参加者のための同意書」は、[2015 YCAM Sports Hackathon](http://www.ycam.jp/events/2015/sports-hackathon/) の参加者が利用して制作されました。ここで作り出された新たなスポーツは、[未来の山口の運動会](http://www.ycam.jp/events/2015/sports-meeting/)で実施されます。  
+「YCAM Sports Hackathon の参加者のための同意書」は、2015 YCAM Sports Hackathonの参加者が利用するために制作されました。ここで作り出された新たなスポーツは、[未来の山口の運動会](http://www.ycam.jp/events/2015/sports-meeting/)で実施されます。  
 
 
 
+###制作プロセス
 
+[IAMAS ハッカソン／メイカソン参加同意書](https://github.com/IAMAS/makeathon_agreement)をベースに、YCAMのリーガルデザインのノウハウ*を取り入れつつ制作しました。
+
+*これまでYCAMではオープン化を取り入れたリーガルデザインを実施してきました。  
+e.g. [GRP Contract Form](http://interlab.ycam.jp/projects/grp-contract-form)、[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)、[Think Thingsで制作したあそびの公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)
+
+
+
+###目的
+
+#####イベントのコンセプトを伝える
+イベントのコンセプトには、参加者のみならず主催者等が一緒に共創すること、実装すること、成果を普及することを含みます。(もし共創しない、共創の範囲が違う場合は、各設定を変更する必要があります。)
+
+#####クリエイションを促進する
+イベントの参加同意書は、問題を回避するために利用されることが多いですが、この同意書では、それにとどまらず、クリエイティビティの向上、さらなるクリエイションの促進、成果のスムースな展開を目指しています。
+
+#####ファシリテーションの一部として同意書を位置づける
+YCAMでは広義のファシリテーションをその活動の重要な要素として捉えています。この同意書は、ファシリテーションの初期段階における、クリエイションを促進するツールとして扱います。共創感、“みんなでやろうぜ”感にもつなげていきます。
+
+#####成果のオープン化を経験する
+共創を促進する具体的な手法のひとつに成果のオープン化をあげることができます。これをハッカソンを通じて経験します。
+
+
+###特徴
+
+#####イベントのコンセプトを示している (1)
+同意書の冒頭に、イベントのコンセプトを記述しています。これ以降の条文の基本となる規定です。  
+
+#####アイディアがパブリックドメインであること、誰もが利用できることを明記している (2)  
+「IAMAS ハッカソン／メイカソン参加同意書」の規定を活かしています。  
+
+#####成果物の権利を参加者と主催者等で共有する (3.1)  
+実際に参加者と主催者等で共創することを反映しています。  
+
+#####イベント終了後に成果物を利用できる (3.2)  
+参加者と主催者などが単独で、成果物を外部のイベント(運動会など)で利用できます。  
+
+#####成果物をオープン化できる (3.3)  
+参加者と主催者などが単独で、成果物をオープン化(第三者が一定の範囲で自由に利用できるよう公開)できます。ライセンスは、Creative Commons Licenece BY-SAを推奨しています(ソフトウェアはApacheLicense2.0)。  
+
+#####成果物を公開する際のクレジットを設定している (4)  
+権利を共有する人の名称すべてをクレジットに示すのは現実的に難しいです。どのイベントの参加者達によって制作されたかがわかる代表的なクレジットを設定しています。(なお、本イベントのウェブサイトに参加者名を記載し、クレジットを検索すれば参加者名がわかるようにします。)
 
 
 ----
