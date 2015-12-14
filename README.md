@@ -1,4 +1,4 @@
-# 2015 YCAM Sports Hackathon の参加者のための同意書およびFAQ (作成中)  
+# 2015 YCAM Sports Hackathon の参加者のための同意書 (作成中)  
 
 ----
 
