@@ -2,7 +2,7 @@
 
 ----
 
-"Consent Form for 2015 YCAM Sports Hackathon" (Japanese).   
+"Consent Form for 2015 YCAM Sports Hackathon" (Japanese)  
 (being prepared)
 
 ----
