@@ -1,11 +1,8 @@
 # 2015 YCAM Sports Hackathon の参加者のための同意書
 
+
+######"Consent Form for 2015 YCAM Sports Hackathon" (Japanese)  
 ----
-
-"Consent Form for 2015 YCAM Sports Hackathon" (Japanese)  
-
-----
-
 ####「[YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm/blob/master/Consent_Form_for_2015_YCAM_Sports_Hackathon.md)」
 
 
