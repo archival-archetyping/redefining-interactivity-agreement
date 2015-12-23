@@ -1,21 +1,19 @@
-# 2015 YCAM Sports Hackathon の参加者のための同意書 (作成中)  
+# 2015 YCAM Sports Hackathon の参加者のための同意書
 
 ----
 
 "Consent Form for 2015 YCAM Sports Hackathon" (Japanese)  
-(being prepared)
 
 ----
 
 ####「[YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm/blob/master/Consent_Form_for_2015_YCAM_Sports_Hackathon.md)」
 
 
-
-
-山口情報芸術センター[YCAM]では、2015年より[YCAM Sports Research Project](http://www.ycam.jp/projects/ycam-sports-research-project/)を進めており、その一環として[2015 YCAM Sports Hackathon](http://www.ycam.jp/events/2015/sports-hackathon/) が実施されます。
+山口情報芸術センター[YCAM]では、2015年より[YCAM Sports Research Project](http://www.ycam.jp/projects/ycam-sports-research-project/)を進めており、その一環として[2015 YCAM Sports Hackathon](http://www.ycam.jp/events/2015/sports-hackathon/) が実施されます。  
 
 「YCAM Sports Hackathon の参加者のための同意書」は、2015 YCAM Sports Hackathonの参加者が利用するために制作されました。ここで作り出された新たなスポーツは、[未来の山口の運動会](http://www.ycam.jp/events/2015/sports-meeting/)で実施されます。  
 
+ここで制作された成果の一部は、[Tumblr](http://ycamsportshackathon.tumblr.com)で公開されます。
 
 
 ###制作プロセス
