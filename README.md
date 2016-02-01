@@ -10,7 +10,7 @@
 
 「YCAM Sports Hackathon の参加者のための同意書」は、2015 YCAM Sports Hackathonの参加者が利用するために制作されました。ここで作り出された新たなスポーツは、[未来の山口の運動会](http://www.ycam.jp/events/2015/sports-meeting/)で実施されます。  
 
-ここで制作された成果の一部は、[Tumblr](http://ycamsportshackathon.tumblr.com)で公開されます。
+ここで制作された成果の一部は、[ウェブサイト (2015 YCAM スポーツハッカソン 山口の未来の運動会)](http://ycamsportshackathon.tumblr.com)で公開されます。
 
 
 ###制作プロセス
