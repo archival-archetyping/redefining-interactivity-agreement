@@ -77,6 +77,4 @@ YCAMでは広義のファシリテーションをその活動の重要な要素�
 派生元「IAMAS ハッカソン／メイカソン参加同意書」作成: 小林 茂 ([情報科学芸術大学院大学［IAMAS］](http://www.iamas.ac.jp/))
 </a>  
 
-『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">2015 YCAM Sports Hackathon の参加者のための同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。<br />
-
-<a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/IAMAS/makeathon_agreement" rel="dct:source">[「IAMAS ハッカソン／メイカソン参加同意書」](https://github.com/IAMAS/makeathon_agreement)</a>に基づいています。
+『<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">2015 YCAM Sports Hackathon の参加者のための同意書</span>』は<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>で提供されています。<a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/IAMAS/makeathon_agreement" rel="dct:source">[「IAMAS ハッカソン／メイカソン参加同意書」](https://github.com/IAMAS/makeathon_agreement)</a>に基づいています。
